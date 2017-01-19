@@ -1,4 +1,7 @@
 class ArticlesController < ApplicationController
+
+
+
   include ArticlesHelper
 
   def index
